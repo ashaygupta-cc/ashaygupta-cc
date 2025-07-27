@@ -81,7 +81,7 @@
 <div align="center">
   
 📧 **Email:** [ashaygupta051204@gmail.com](mailto:ashaygupta051204@gmail.com)  
-📍 **Location:** Gandhinagar, Gujarat  
+📍 **Location:** Gandhinagar, Gujarat, India  
 💼 **LinkedIn:** [Ashay Gupta](https://www.linkedin.com/in/ashay-gupta-30068831b)
 
 </div>
