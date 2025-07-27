@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Ashay Gupta! 👋</h1>
-<h3 align="center">Precision freak 🎯 | As sharp as a Katana, as fast as a query</h3>
+<h3 align="center">"Obsessed with growth, aggressive in execution, unshakable in effort."</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ashaygupta-cc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
