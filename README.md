@@ -15,8 +15,8 @@
 
 ## 🚀 Projects
 
-* **[GitViz](https://github.com/ashaygupta-cc/GitViz)**: GitViz is an interactive visualization tool that helps users explore GitHub repositories, profiles, and file structures in a visually appealing and intuitive manner. (Live: [git-viz-frontend.vercel.app](https://git-viz-frontend.vercel.app/))
-* **[Portfolio Website](https://github.com/ashaygupta-cc/portfolio-website)**: A portfolio website inspired by the Fire Breathing and Water Breathing techniques from Demon Slayer. It blends bold, fiery visuals with smooth, fluid transitions reflecting both passion and precision in every detail. (Live: [portfolio-website-ashay.vercel.app/](https://portfolio-website-ashay.vercel.app/))
+* **[GitViz](https://github.com/ashaygupta-cc/GitViz-Frontend)**: GitViz is an interactive visualization tool that helps users explore GitHub repositories, profiles, and file structures in a visually appealing and intuitive manner. (Live: [git-viz-frontend.vercel.app](https://git-viz-frontend.vercel.app/))
+* **[Portfolio Website](https://github.com/ashaygupta-cc/Portfolio-Website-Frontend)**: A portfolio website inspired by the Fire Breathing and Water Breathing techniques from Demon Slayer. It blends bold, fiery visuals with smooth, fluid transitions reflecting both passion and precision in every detail. (Live: [portfolio-website-ashay.vercel.app/](https://portfolio-website-ashay.vercel.app/))
 
 ---
 
@@ -30,7 +30,7 @@
 </div>
 <br>
 <p>
-  Also proficient in data analysis libraries like <b>Numpy</b>, <b>Pandas</b>, <b>Matplotlib</b>, and <b>Seaborn</b>.
+  Also proficient in data analysis libraries like **Numpy**, **Pandas**, **Matplotlib**, and **Seaborn**.
 </p>
 
 ---
