@@ -29,8 +29,8 @@
   <img src="https://skillicons.dev/icons?i=git,vercel,postman" alt="Tools" />
 </div>
 <br>
-<p>
-  Also proficient in data analysis libraries like **Numpy**, **Pandas**, **Matplotlib**, and **Seaborn**.
+<p>  
+  Also proficient in data analysis libraries like <b>NumPy</b>, <b>Pandas</b>, <b>Matplotlib</b>, and <b>Seaborn</b>.
 </p>
 
 ---
