@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ashay Gupta! 👋</h1>
+<h1 align="center">Hi there, I'm Ashay ! 👋</h1>
 <h3 align="center">"Obsessed with growth, aggressive in execution, unshakable in effort."</h3>
 
 <p align="center">
