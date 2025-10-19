@@ -15,6 +15,7 @@
 
 ## 🚀 Projects
 
+* **[FacePCA-Reconstruction](https://github.com/ashaygupta-cc/FacePCA-Reconstruction)**: A PCA-based face reconstruction and compression project using eigenfaces, trained on CPU and GPU (~46 trillion operations) to achieve 97% compression on 7200+ images with visualizations of eigenfaces and reconstruction error.
 * **[GitViz](https://github.com/ashaygupta-cc/GitViz-Frontend)**: GitViz is an interactive visualization tool that helps users explore GitHub repositories, profiles, and file structures in a visually appealing and intuitive manner. (Live: [git-viz-frontend.vercel.app](https://git-viz-frontend.vercel.app/))
 * **[Portfolio Website](https://github.com/ashaygupta-cc/Portfolio-Website-Frontend)**: A portfolio website inspired by the Fire Breathing and Water Breathing techniques from Demon Slayer. It blends bold, fiery visuals with smooth, fluid transitions reflecting both passion and precision in every detail. (Live: [portfolio-website-ashay.vercel.app/](https://portfolio-website-ashay.vercel.app/))
 
