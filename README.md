@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1s0BTp48j_KByILuVjOuXUo9ZPSwrrHlv/view?usp=drivesdk" target="_blank">
+  <a href="https://drive.google.com/file/d/1s5D2ECpIqr4C-ByI4vJPcXc3yerMa7Cr/view?usp=drivesdk" target="_blank">
     <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
 </p>
