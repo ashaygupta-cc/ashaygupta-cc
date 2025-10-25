@@ -1,96 +1,93 @@
-<h1 align="center">Hi there, I'm Ashay ! 👋</h1>
-<h3 align="center">"Obsessed with growth, aggressive in execution, unshakable in effort."</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashaygupta-cc&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img align="center" width="510" src="Ashay.png" />
 </p>
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/1y17lwaT9o3GoxWKQ1Ajh8n7vg3C6yA1U/view?usp=drivesdk" target="_blank">
-    <img src="https://img.shields.io/badge/Resume-blue?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00D26A&center=false&vCenter=true&width=400&lines=Feel+free+to+connect!+==>;Ping+me+to+collaborate!;Let's+build+something+amazing!;Open+to+new+opportunities!;Always+ready+to+discuss+tech!" width="250"/>
+  <a href="mailto:ashay051204@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="35" height="35" />
   </a>
-</p>
-
----
-
-## 🚀 Projects
-
-* **[FacePCA-Reconstruction](https://github.com/ashaygupta-cc/FacePCA-Reconstruction)**: A PCA-based face reconstruction and compression project using eigenfaces, trained on CPU and GPU (~46 trillion operations) to achieve 97% compression on 7200+ images with visualizations of eigenfaces and reconstruction error.
-* **[GitViz](https://github.com/ashaygupta-cc/GitViz-Frontend)**: GitViz is an interactive visualization tool that helps users explore GitHub repositories, profiles, and file structures in a visually appealing and intuitive manner. (Live: [git-viz-frontend.vercel.app](https://git-viz-frontend.vercel.app/))
-* **[Portfolio Website](https://github.com/ashaygupta-cc/Portfolio-Website-Frontend)**: A portfolio website inspired by the Fire Breathing and Water Breathing techniques from Demon Slayer. It blends bold, fiery visuals with smooth, fluid transitions reflecting both passion and precision in every detail. (Live: [portfolio-website-ashay.vercel.app/](https://portfolio-website-ashay.vercel.app/))
-
----
-
-## 🛠️ Tech Stack
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,java,html,css" alt="Languages" />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,tensorflow,tailwindcss" alt="Frameworks & Libraries" />
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,supabase" alt="Databases" />
-  <img src="https://skillicons.dev/icons?i=git,vercel,postman" alt="Tools" />
+  <a href="https://portfolio-website-ashay.vercel.app/">
+    <img src="https://skillicons.dev/icons?i=vercel" width="35" height="35" />
+  </a>
+  <a href="https://www.linkedin.com/in/ashay-gupta-30068831b">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="35" height="35" />
+  </a>
+  <a href="https://www.instagram.com/ashay.shiva">
+    <img src="https://skillicons.dev/icons?i=instagram" width="35" height="35" />
+  </a>
+  <a href="https://x.com/ashay0526">
+    <img src="https://skillicons.dev/icons?i=twitter" width="35" height="35" />
+  </a>
+  <a href="https://discord.com/users/1406920647325515828">
+    <img src="https://skillicons.dev/icons?i=discord" width="35" height="35" />
+  </a>
+  <a href="https://github.com/ashaygupta-cc">
+    <img src="https://skillicons.dev/icons?i=github" width="35" height="35" />
+  </a>
+  <a href="https://leetcode.com/u/ashaygupta_cc/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="35" height="35" />
+  </a>
 </div>
-<br>
-<p>  
-  Also proficient in data analysis libraries like <b>NumPy</b>, <b>Pandas</b>, <b>Matplotlib</b>, and <b>Seaborn</b>.
-</p>
 
----
+## <img src="About Me.gif" height="25" />
 
-## 📊 GitHub Stats
+<div>
+<img align="right" src="https://github-stats-alpha.vercel.app/api?username=ashaygupta-cc&cc=22272e&tc=00D26A&ic=fff&bc=0000" height="400" width="400" />
+
+- 🎓 **B.Tech CSE student** driven by curiosity and caffeine - building things that blend logic with creativity.  
+- 😮‍💨 **Competitive programmer & passionate about writing elegant algorithms!** (Won 5× coding competitions!)
+- 🧠 Obsessed with **Machine learning, AI agents, RAG & more** (Let AI handle the boring stuff, right?).
+- 🔍 Passionate about creating systems that **learn**, **adapt**, and make life just a bit smarter.
+- 🌱 Whether it’s optimizing code or designing intuitive user experiences, I believe in progress through persistence.  
+- 🛠️ Constantly exploring, building, breaking, and rebuilding - because growth is iterative.  
+- 💫 **_Do more of what you love._**
+
+</div>
+
+## <img src="Tech Armory.gif" height="25" />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashaygupta-cc&theme=tokyonight&row=1&column=6" alt="Trophies" />
-</div>
-</br>
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=ashaygupta-cc&show_icons=true&theme=tokyonight&count_private=true" alt="Ashay Gupta's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashaygupta-cc&theme=tokyonight" alt="Ashay Gupta's GitHub Streak" />
-</div>
-<div style="display: flex; flex-direction: column; align-items: center; gap: 20px; text-align: center;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashaygupta-cc&theme=react-dark" alt="Ashay Gupta's GitHub Activity Graph" />
-</div>
-  
----
 
-## 🌐 Connect With Me
+|                                                                                                         **Programming Languages**                                                                                                          |                                                                                                                                                              **Web Development**                                                                                                                                                              |                                                                                                                 **Databases & Tools**                                                                                                                  |                                                                   **AI/ML & Data Science**                                                                   |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) | ![React](https://skillicons.dev/icons?i=react) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![Next](https://skillicons.dev/icons?i=next) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Tailwind](https://skillicons.dev/icons?i=tailwind) | ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) | ![Python](https://skillicons.dev/icons?i=python) ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![PyTorch](https://skillicons.dev/icons?i=pytorch) |
 
-<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/ashay-gupta-30068831b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/ashay.shiva?igsh=MWIxd3Zmd2U5anA0YQ==" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://codeforces.com/profile/ashaygupta_cc" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
-  </a>
-  <a href="https://leetcode.com/ashaygupta_cc" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.codechef.com/users/ashaygupta_cc" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" />
-  </a>
-  <a href="https://github.com/ashaygupta-cc" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+|                                   **DevOps & Infrastructure**                                   |                                  **Design & Development Tools**                                  |                                       **Operating Systems**                                       |
+| :---------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------: |
+| ![Docker](https://skillicons.dev/icons?i=docker) ![Linux](https://skillicons.dev/icons?i=linux) | ![VS Code](https://skillicons.dev/icons?i=vscode) ![Figma](https://skillicons.dev/icons?i=figma) | ![Linux](https://skillicons.dev/icons?i=linux) ![Windows](https://skillicons.dev/icons?i=windows) |
+
 </div>
 
----
+## <img src="Work Highlights.gif" height="25" />
 
-## 📬 Contact
+| **Project**                  | **Description**                                                                                                                          |                                                                                                                  **Tech Stack**                                                                                                                  |                                        **Links**                                         |
+| :--------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
+| 🤖 **Face-PCA Reconstruction**  (2025 September)      |     Web-based tool that reconstructs facial images from PCA components, enabling visual analysis of high-dimensional data. (Kind of image compression)                                 | ![TensorFlow](https://skillicons.dev/icons?i=tensorflow) ![Python](https://skillicons.dev/icons?i=python) ![Jupyter](https://skillicons.dev/icons?i=jupyter) ![PyTorch](https://skillicons.dev/icons?i=pytorch) ![OpenCV](https://skillicons.dev/icons?i=opencv) |           [📂 Code](https://github.com/ashaygupta-cc/FacePCA-Reconstruction) (public)           |
+| 🌐 **FlashDB**  (2025 October)         | Local-based superfast CLI system supporting manual + file-based queries, capable of handling billions of records with full user privacy. Current v3 is 1000× faster than MongoDB! Currently working on V4!                                                         | ![Node.js](https://skillicons.dev/icons?i=nodejs) ![React](https://skillicons.dev/icons?i=react) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white) |     (Private)    |
+| 🛡️ **GitViz**  (2025 August)       | Interactive GitHub repository visualizer showing repos, commits, and file structures with AI-assisted insights                | ![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Three.js](https://skillicons.dev/icons?i=threejs) ![GitHub](https://skillicons.dev/icons?i=github) |  [🔗 Live](https://git-viz-frontend.vercel.app/)   [📂 Code](https://github.com/ashaygupta-cc/GitViz-Frontend) (public)  |
+| 🛒 **Green Hydrogen MRV** (2025 September) | Green Hydrogen blockchain-based MRV system, fully functional and completely decentralized; supports RWA tracking, minting, and trading.          | ![Blockchain](https://skillicons.dev/icons?i=blockchain) ![Python](https://skillicons.dev/icons?i=python) ![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat&logo=hardhat&logoColor=white) ![Sepolia](https://img.shields.io/badge/Sepolia-000000?style=flat) ![TypeScript](https://skillicons.dev/icons?i=typescript)                                               |                          (Private + Coming Soon)                          |
+| 🏭 **Blue Carbon MRV+Trade** (2025 October)           | Blockchain-based MRV system for blue carbon assets, fully decentralized with IoT-enabled verification; supports RWA tracking, minting, trading, and real-time monitoring for environmental impact and compliance. | ![Blockchain](https://skillicons.dev/icons?i=blockchain) ![Python](https://skillicons.dev/icons?i=python) ![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat&logo=hardhat&logoColor=white) ![Sepolia](https://img.shields.io/badge/Sepolia-000000?style=flat) ![TypeScript](https://skillicons.dev/icons?i=typescript)                           |  (Private + Coming Soon) |  
+| 🏭 **Portfolio-Website** (2025 June)             |  A portfolio website inspired by the Fire Breathing and Water Breathing techniques from Demon Slayer. It blends bold, fiery visuals with smooth, fluid transitions reflecting both passion and precision in every detail. | !![React](https://skillicons.dev/icons?i=react) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Three.js](https://skillicons.dev/icons?i=threejs)                            |   [🔗 Live](https://portfolio-website-ashay.vercel.app/)   [📂 Code](https://github.com/ashaygupta-cc/Portfolio-Website-Frontend) (public)  | |  
+
+
+## <img src="github Stats.gif" height="25" />
 
 <div align="center">
-  
-📧 **Email:** [ashaygupta051204@gmail.com](mailto:ashaygupta051204@gmail.com)  
-📍 **Location:** Gandhinagar, Gujarat, India  
-💼 **LinkedIn:** [Ashay Gupta](https://www.linkedin.com/in/ashay-gupta-30068831b)
 
-</div>
+|                                                                                                      **📊 GitHub Analytics**                                                                                                      |                                                                                         **🔥 Contribution Streak**                                                                                          |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api?username=ashaygupta-cc&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=ffffff" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashaygupta-cc&theme=dark&hide_border=true&stroke=FF8C00&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" alt="GitHub Streak" width="400"/> |
 
----
+|                                                                                                        **🌟 Most Used Languages**                                                                                                         |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashaygupta-cc&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=ffffff&card_width=445" alt="Top Languages" width="500"/> |
 
-<div align="center">
-  
+|                                                                                           **📈 Contribution Graph**                                                                                           |
+| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashaygupta-cc&theme=react-dark&hide_border=true&area=true&color=FF8C00&line=FF8C00&point=ffffff" alt="Activity Graph" width="800"/> |
+
 ⭐ **Thanks for visiting my profile!** Let's build something amazing together.
-
 </div>
+
+
