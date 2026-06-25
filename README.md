@@ -109,10 +109,6 @@ INTERESTED IN :
 | :--: | :--: |
 | <img src="https://github-readme-stats.vercel.app/api?username=ashaygupta-cc&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=56D8F7&icon_color=56D8F7&text_color=ffffff" width="400"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashaygupta-cc&theme=dark&hide_border=true&stroke=56D8F7&ring=56D8F7&fire=56D8F7&currStreakLabel=56D8F7" width="400"/> |
 
-| **👾 Pac-Man Contribution History** |
-| :--: |
-| <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashaygupta-cc/ashaygupta-cc/output/pacman-contribution-graph-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashaygupta-cc/ashaygupta-cc/output/pacman-contribution-graph.svg"><img src="https://raw.githubusercontent.com/ashaygupta-cc/ashaygupta-cc/output/pacman-contribution-graph.svg" width="800"></picture> |
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=56D8F7&height=2"/>
