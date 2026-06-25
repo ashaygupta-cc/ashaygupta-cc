@@ -35,7 +35,7 @@
 
 ## 𝗔𝗯𝗼𝘂𝘁 𝗠𝗲
 
-<img align="right" src="https://github-stats-alpha.vercel.app/api?username=ashaygupta-cc&cc=0d1117&tc=56D8F7&ic=56D8F7&bc=56D8F7" height="460" width="400" />
+<img align="right" src="https://github-stats-alpha.vercel.app/api?username=ashaygupta-cc&cc=0d1117&tc=56D8F7&ic=56D8F7&bc=56D8F7" height="460" width="360" />
 
 Building 
 <a href="https://www.linkedin.com/company/binarybeatshq">
