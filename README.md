@@ -48,11 +48,11 @@ Building
 <br/>
 
 ```
-  Codeforces Expert                  ◆  Highest Rating 1730
-  CodeChef 4 Star                    ◆  Highest Rating 1810
-  Matiks Candidate I                 ◆  Highest Rating 2001
-  1300+ Problems Solved              ◆  CF,LC,CC,AtCoder,CSES Combined
-  Inter IIIT Finalist                ◆  CP Competitions Winner x4
+  Codeforces Expert               ◆  Highest Rating 1730
+  CodeChef 4 Star                 ◆  Highest Rating 1810
+  Matiks Candidate I              ◆  Highest Rating 2001
+  1300+ Problems Solved           ◆  CF,LC,CC,AtCoder,CSES Combined
+  Inter IIIT Finalist             ◆  CP Competitions Winner x4
   Hackathon Finalist x4             
 ```
 
